@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Munir</h1>
-<h3 align="center">a Mid-Level Software Engineer, constantly seeking new knowledge and skills. Currently, I am employed at Lucidya Company. I hold a Bachelor's degree in Electronics and Telecommunication.</h3>
+<h2 align="left">A Mid-Level Software Engineer, constantly seeking new knowledge and skills. I have gained extensive experience working with Python and React. During this time, I have
+developed a deep understanding of both front-end and back-end technologies, and have applied this knowledge to build robust, scalable, and user-friendly web applications </h2>
+<h2 align="left">Currently, I am employed at Lucidya Company. </h2>
+<h2 align="left">I hold a Bachelor's degree in Electronics and Telecommunication.</h2>
 
 - 📫 How to reach me **ahmedmunireng@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-munir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-munir" height="30" width="40" /></a>
 <a href="https://fb.com/drjempo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="drjempo" height="30" width="40" /></a>
